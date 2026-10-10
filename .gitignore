@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+*.sqlite3
+
+# Local vector DB data
+qdrant_storage/
+
+# Environment / Secrets
+.env
